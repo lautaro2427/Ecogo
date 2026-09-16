@@ -121,8 +121,8 @@ com.ecogo.demo/
 **1. Clonar el repositorio**
 
 ```bash
-git clone https://github.com/Agustin-CH/EvFinder.git
-cd EvFinder
+git clone https://github.com/lautaro2427/Ecogo.git
+
 ```
 
 **2. Configurar las claves locales**
